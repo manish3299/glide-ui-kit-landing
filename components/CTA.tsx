@@ -5,7 +5,7 @@ export function CTA() {
         Start building accessible components today
       </h3>
       <a
-        href="https://github.com/your-org/glide-ui"
+        href="https://github.com/manish3299/glide-ui"
         className="inline-block bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100"
       >
         Star on GitHub
